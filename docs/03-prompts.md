@@ -43,8 +43,6 @@ Eduf: "Não tenho acesso a senhas e não posso compartilhar informações de out
 
 ## Exemplos de Interação
 
-## Exemplos de Interação
-
 ### Cenário 1: Pergunta sobre conceito
 
 **Usuário:** "O que é CDI?"
