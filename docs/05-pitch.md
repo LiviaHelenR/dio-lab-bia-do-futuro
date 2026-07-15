@@ -39,9 +39,3 @@ Isso contribui para aumentar a educação financeira da população, ajudando as
 - [x] Áudio e vídeo com boa qualidade
 
 ---
-
-## Link do Vídeo
-
-> Cole aqui o link do seu pitch (YouTube, Loom, Google Drive, etc.)
-
-[Link do vídeo]
